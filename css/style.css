@@ -8011,10 +8011,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #fc983c; }
+  color: #AB2A4A; }
   a:hover, a:focus {
     text-decoration: none;
-    color: #fc983c;
+    color: #AB2A4A;
     outline: none !important; }
 
 h1, h2, h3, h4, h5,
@@ -8519,8 +8519,8 @@ h1, h2, h3, h4, h5,
       background: transparent !important;
       color: #000000 !important; }
       .btn.btn-black.btn-outline-black:hover {
-        border: 1px solid #fc983c !important;
-        background: #fc983c !important;
+        border: 1px solid #AB2A4A !important;
+        background: #AB2A4A !important;
         color: #fff !important; }
 
 .search-wrap-1 {
@@ -8610,7 +8610,7 @@ h1, h2, h3, h4, h5,
     .car-wrap .price-wrap .rate {
       font-size: 24px;
       font-weight: 300;
-      color: #fc983c;
+      color: #AB2A4A;
       line-height: 1.1; }
     .car-wrap .price-wrap .from-day {
       margin-bottom: 0;
@@ -8927,7 +8927,7 @@ h1, h2, h3, h4, h5,
       .services.active .media-body p {
         margin-bottom: 0; }
   .services.services-2 .icon {
-    border: 2px solid #fc983c;
+    border: 2px solid #AB2A4A;
     width: 90px;
     height: 90px;
     margin: 0 auto;
@@ -9288,7 +9288,7 @@ textarea.form-control {
       border-radius: 50%;
       background: rgba(0, 0, 0, 0.1); }
       .testimony-section .owl-dots .owl-dot.active {
-        background: #f7b71d; }
+        background: #AB2A4A; }
 
 .testimony-wrap {
   display: block;
@@ -9311,7 +9311,7 @@ textarea.form-control {
     font-weight: 500;
     font-size: 20px;
     margin-bottom: 0;
-    color: #fc983c; }
+    color: #AB2A4A; }
   .testimony-wrap .position {
     font-size: 16px;
     color: #cccccc; }
@@ -9430,7 +9430,7 @@ textarea.form-control {
       .blog-entry .text .heading a {
         color: #000000; }
         .blog-entry .text .heading a:hover, .blog-entry .text .heading a:focus, .blog-entry .text .heading a:active {
-          color: #fc983c; }
+          color: #AB2A4A; }
   .blog-entry .meta > div {
     display: inline-block;
     margin-right: 5px;
