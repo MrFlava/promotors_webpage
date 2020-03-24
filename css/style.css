@@ -5232,7 +5232,7 @@ a.close.disabled {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #007bff !important; }
+  background-color: #AB2A4A !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -8228,7 +8228,7 @@ h1, h2, h3, h4, h5,
     position: relative; }
     .hero-wrap.hero-wrap-2 .overlay {
       width: 100%;
-      opacity: .05;
+      /*opacity: .05;*/
       height: 700px; }
     .hero-wrap.hero-wrap-2 .slider-text {
       height: 700px !important; }
@@ -8464,7 +8464,7 @@ h1, h2, h3, h4, h5,
   background: #f8f9fa !important; }
 
 .bg-primary {
-  background: #fc983c; }
+  background: #AB2A4A; }
 
 .btn {
   cursor: pointer;
@@ -8791,7 +8791,7 @@ h1, h2, h3, h4, h5,
           height: 0;
           border-style: solid;
           border-width: 10px 100px 0 100px;
-          border-color: #fc983c transparent transparent transparent;
+          border-color: #AB2A4A transparent transparent transparent;
           margin: 0 auto;
           z-index: 1; }
       .table .thead-primary tr th.bg-black:after {
@@ -8831,7 +8831,7 @@ h1, h2, h3, h4, h5,
           left: -10px;
           font-size: 14px; }
         .table tbody tr td.price h3 span.num {
-          color: #fc983c;
+          color: #AB2A4A;
           font-size: 20px;
           position: relative; }
         .table tbody tr td.price h3 span.per {
@@ -9026,7 +9026,7 @@ textarea.form-control {
   visibility: hidden; }
 
 .bg-primary {
-  background: #fc983c !important; }
+  background: #AB2A4A;}
 
 .bg-black {
   background: #000000; }
