@@ -1,9 +1,4 @@
-/*!
- * Bootstrap v4.2.1 (https://getbootstrap.com/)
- * Copyright 2011-2018 The Bootstrap Authors
- * Copyright 2011-2018 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -8630,12 +8625,12 @@ h1, h2, h3, h4, h5,
       .search-property-1 .form-group .icon {
         right: 10px; } }
 
-.car-wrap {
+.machine-wrap {
   margin-bottom: 40px; }
-  .car-wrap .img {
+  .machine-wrap  .img {
     width: 100%;
     height: 200px; }
-  .car-wrap .price-wrap {
+  .machine-wrap  .price-wrap {
     padding: 10px;
     position: relative;
     display: inline-block;
@@ -8643,30 +8638,30 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: -10px 10px 25px -15px rgba(0, 0, 0, 0.17);
     -moz-box-shadow: -10px 10px 25px -15px rgba(0, 0, 0, 0.17);
     box-shadow: -10px 10px 25px -15px rgba(0, 0, 0, 0.17); }
-    .car-wrap .price-wrap .rate {
+    .machine-wrap .price-wrap .rate {
       font-size: 24px;
       font-weight: 300;
       color: #AB2A4A;
       line-height: 1.1; }
-    .car-wrap .price-wrap .from-day {
+    .machine-wrap  .price-wrap .from-day {
       margin-bottom: 0;
       padding-left: 10px; }
-      .car-wrap .price-wrap .from-day span {
+      .machine-wrap .price-wrap .from-day span {
         font-size: 9px;
         line-height: 1.3;
         display: block;
         color: #000000;
         text-transform: uppercase; }
-        .car-wrap .price-wrap .from-day span:first-child {
+        .machine-wrap .price-wrap .from-day span:first-child {
           color: rgba(0, 0, 0, 0.3); }
-  .car-wrap .text {
+  .machine-wrap .text {
     border: 1px solid rgba(0, 0, 0, 0.05);
     border-top: none; }
-    .car-wrap .text h2 {
+    .machine-wrap .text h2 {
       font-size: 18px; }
-      .car-wrap .text h2 a {
+      .machine-wrap .text h2 a {
         color: #000000; }
-    .car-wrap .text span {
+    .machine-wrap .text span {
       font-size: 12px;
       text-transform: uppercase;
       font-weight: 600;
@@ -8674,27 +8669,27 @@ h1, h2, h3, h4, h5,
       color: rgba(0, 0, 0, 0.4);
       display: block;
       margin-bottom: 20px; }
-    .car-wrap .text p.d-block {
+    .machine-wrap  .text p.d-block {
       width: 100%; }
-      .car-wrap .text p.d-block a {
+      .machine-wrap .text p.d-block a {
         width: 50%; }
 
-.ftco-car-details .services .media-body .icon span {
+.ftco-machine-details .services .media-body .icon span {
   color: rgba(0, 0, 0, 0.8); }
 
-.ftco-car-details .services .media-body .text h3 {
+.ftco-machine-details .services .media-body .text h3 {
   font-size: 14px !important;
   color: rgba(0, 0, 0, 0.4); }
-  .ftco-car-details .services .media-body .text h3 span {
+  .ftco-machine-details .services .media-body .text h3 span {
     display: block;
     color: #000000; }
 
-.car-details .img {
+.machine-details .img {
   width: 100%;
   height: 600px;
   margin-bottom: 40px; }
 
-.car-details span.subheading {
+.machine-details span.subheading {
   font-size: 12px;
   text-transform: uppercase;
   font-weight: 600;
@@ -8798,7 +8793,7 @@ h1, h2, h3, h4, h5,
         .pills .rating-wrap .star span:last-child {
           width: 32%; }
 
-.car-list {
+.machine-list {
   overflow-x: scroll; }
 
 .table {
@@ -8838,7 +8833,7 @@ h1, h2, h3, h4, h5,
     vertical-align: middle;
     padding: 30px 0;
     border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important; }
-    .table tbody tr td.car-image .img {
+    .table tbody tr td.machine-image .img {
       display: block;
       width: 180px;
       height: 100px;
